@@ -1,0 +1,14 @@
+.contenedor {
+  display: inline-block;
+  border: solid springgreen 10px;
+  border-radius: 10px;
+  margin: 100px;
+  padding: 0px;
+  padding: 0px;
+}
+input {
+  height: 100px;
+  width: 100px;
+  margin: 0px;
+  padding: 0px;
+}
